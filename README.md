@@ -1,1 +1,1 @@
-# Analisis-Descriptivo-Python
+# Analisis-Descriptivo-Numérico-Python
